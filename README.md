@@ -7,7 +7,7 @@ Devin Sharpe, Ryan Kenfield, Ryan Dalton
 - Make sure you have unity version 2019.4.14f1 installed
 - Pull down our project.
 - Open the project in unity
-- Go to Devinstestscene within the scenes folder and double click on it
+- Go to Devinstestlevel within the scenes folder and double click on it
 - Hit play button found at the top center of the screen
 
 
